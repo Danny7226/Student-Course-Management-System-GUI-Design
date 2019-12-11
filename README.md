@@ -3,4 +3,4 @@
 • Utilized Java GUI to build user interface for management system; <br/>
 • Implemented management functions such as course introducing, student enrollment, checking student schedule, checking course cohort etc.<br/>
 
-![Screen Shot](/images/logo.png)
+![Screen Shot](ScreenShot.png)
