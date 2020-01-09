@@ -1,2 +1,5 @@
 javac -cp mysql-connector-java-8.0.18.jar BuildDatabase.java
 javac -cp mysql-connector-java-8.0.18.jar --module-path $PATH_TO_FX_2 --add-modules javafx.controls CourseManagementSystem.java
+
+java -cp mysql-connector-java-8.0.18.jar BuildDatabase.java
+java -cp mysql-connector-java-8.0.18.jar --module-path $PATH_TO_FX_2 --add-modules javafx.controls CourseManagementSystem.java
